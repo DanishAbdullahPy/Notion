@@ -1,0 +1,277 @@
+@charset "utf-8";
+
+.inherited-css {
+    color: #050505;
+    cursor: default;
+    font-family:
+        inter-var,
+        -apple-system,
+        BlinkMacSystemFont,
+        Segoe UI,
+        Helvetica,
+        Apple Color Emoji,
+        Arial,
+        sans-serif,
+        Segoe UI Emoji,
+        Segoe UI Symbol;
+    line-height: 24px;
+    text-align: center;
+}
+
+body {
+    background: #eeeeee;
+}
+
+.button_button__atjat {
+    align-items: center;
+    border-radius: 0.3125rem;
+    display: inline-flex;
+    font-family:
+        inter-var,
+        -apple-system,
+        BlinkMacSystemFont,
+        Segoe UI,
+        Helvetica,
+        Apple Color Emoji,
+        Arial,
+        sans-serif,
+        Segoe UI Emoji,
+        Segoe UI Symbol;
+    justify-content: center;
+    white-space: pre-line;
+    word-break: break-word;
+    font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
+    background: transparent;
+    border: 0;
+    height: auto;
+    min-width: auto;
+    text-decoration: none;
+}
+
+.button_buttonSizeL__z8y6s {
+    font-size: 1rem;
+    font-weight: 570;
+    letter-spacing: 0.0005em;
+    line-height: 1.4375;
+    min-height: 36px;
+    padding: 0.25rem 0.875rem;
+}
+
+.button_buttonVariantPrimary__mUFQZ {
+    background: #000000;
+    
+        0 0.3259259164px 0.7333333492px 0 rgba(0, 0, 0, 0.12),
+        0 1.5407407284px 2.8666665554px 0 rgba(0, 0, 0, 0.07),
+        0 4px 9px 0 rgba(0, 0, 0, 0.05);
+    color: rgb(5, 5, 5);
+}
+
+.button_buttonVariantPrimary__mUFQZ:hover {
+    background: #333;
+}
+
+.button_buttonVariantPrimary__mUFQZ:active,
+.button_buttonVariantPrimary__mUFQZ:focus {
+    background: #ffffff;
+}
+
+.button_buttonVariantPrimary__mUFQZ:disabled {
+    background: none;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: none;
+    color: rgba(216, 210, 210, 0.4);
+    cursor: auto;
+}
+
+.button_buttonSiz_z8y6s.button_hasArrowRight__yXJHC {
+    padding-right: 0.75rem;
+}
+
+.button_hasArrowRight__yXJHC:after {
+    display: inline-block;
+    margin-left: 0.25eL_em;
+    text-decoration: none;
+    content: " →";
+}
+
+span.typography_typography__Exx2D {
+    box-sizing: border-box;
+    color: #000000;
+    cursor: default;
+    display: inline;
+    font-family: inter-var, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 24px;
+    font-weight: 500 letter-spacing: -0.42px;
+    line-height: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    /* Adjust this value to move the text higher */
+}
+
+
+
+
+
+
+
+color: #050505;
+font: 600 1.5rem/1.27 inter-var,
+-apple-system,
+BlinkMacSystemFont,
+Segoe UI,
+Helvetica,
+Apple Color Emoji,
+Arial,
+sans-serif,
+Segoe UI Emoji,
+Segoe UI Symbol;
+font-variation-settings: "wght"605;
+letter-spacing: -0.01755em;
+margin: 4;
+}
+
+@media (min-width: 500px) {
+    .typography_typography__Exx2D {
+        font:
+            600 1.7rem/1.6 inter-var,
+            -apple-system,
+            BlinkMacSystemFont,
+            Segoe UI,
+            Helvetica,
+            Apple Color Emoji,
+            Arial,
+            sans-serif,
+            Segoe UI Emoji,
+            Segoe UI Symbol;
+
+        font-variation-settings: "wght"525;
+        letter-spacing: -0.0175em;
+    }
+}
+
+.heading_heading__OmVf6 {
+    word-break: break-word;
+    text-wrap: balance;
+}
+
+header,
+nav {
+    display: block;
+}
+
+a {
+    background-color: transparent;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0.67em 0;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: inter-var;
+    font-style: normal;
+    font-variation-settings: "wght"290;
+    font-weight: 400;
+    src: url(https://www.notion.so/_next/static/media/Inter-Var.730e8169.woff2) format("woff2-variations");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: inter-var;
+    font-style: normal;
+    font-variation-settings: "wght"430;
+    font-weight: 430;
+    src: url(https://www.notion.so/_next/static/media/Inter-Var.730e8169.woff2) format("woff2-variations");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: inter-var;
+    font-style: normal;
+    font-variation-settings: "wght"544;
+    font-weight: 544;
+    src: url(https://www.notion.so/_next/static/media/Inter-Var.730e8169.woff2) format("woff2-variations");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: inter-var;
+    font-style: normal;
+    font-variation-settings: "wght"586;
+    font-weight: 586;
+    src: url(https://www.notion.so/_next/static/media/Inter-Var.730e8169.woff2) format("woff2-variations");
+}
+
+@font-face {
+    font-display: block;
+    font-family: inter-var;
+    font-style: normal;
+    font-variation-settings: "wght"669;
+    font-weight: 669;
+    src: url(https://www.notion.so/_next/static/media/Inter-Var.730e8169.woff2) format("woff2-variations");
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.SuperHero_superHeroEyebrow__bmWgK {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 28px;
+}
+
+.SuperHero_superHeroEyebrow__bmWgK:empty {
+    display: none;
+}
+
+.SuperHero_cta__IObI0 {
+    align-items: center;
+    display: flex;
+    flex-flow: wrap;
+    gap: 16px;
+    place-content: center;
+}
+
+@media (min-width: 1080px) {
+    .SuperHero_cta__IObI0 {
+        justify-content: flex-start;
+    }
+}
+
+.SuperHero_header__Yic_1 {
+    align-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+}
+
+@media (min-width: 1080px) {
+    .SuperHero_header__Yic_1 {
+        order: 2;
+    }
+}
+
+.SuperHero_header__Yic_1 {
+    order: 1;
+}
+
+.SuperHero_subheader__aTYPe {
+    margin-bottom: 8px;
+    max-width: 80%;
+    text-align: center;
+}
+
+a {
+    color: #050505;
+}
+
+html {
+    font-size: 16px;
+}

@@ -1,0 +1,11 @@
+#ok {
+    display: block;
+    margin: auto;
+    max-width: 100%; /* Make the image responsive */
+    height: auto; /* Maintain the image's aspect ratio */
+    max-height: 200px; /* Set the maximum height as needed */
+    margin-top: 20px;
+    
+  }
+
+  

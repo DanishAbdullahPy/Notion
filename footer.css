@@ -1,0 +1,479 @@
+.inherited-css {
+    color: #050505;
+    cursor: default;
+    font-family: inter-var, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica,
+      Apple Color Emoji, Arial, sans-serif, Segoe UI Emoji, Segoe UI Symbol;
+    line-height: 24px;
+  }
+  body {
+    background: #eeeeee;
+  }
+  .button_button__atjat {
+    align-items: center;
+    border-radius: 0.3125rem;
+    display: inline-flex;
+    font-family: inter-var, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica,
+      Apple Color Emoji, Arial, sans-serif, Segoe UI Emoji, Segoe UI Symbol;
+    justify-content: center;
+    white-space: pre-line;
+    word-break: break-word;
+    font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
+    background: transparent;
+    border: 0;
+    height: auto;
+    min-width: 0px;
+    text-decoration: none;
+  }
+  .button_buttonSizeS__IYg0e {
+    font-size: 0.84375rem;
+    font-weight: 554;
+    letter-spacing: 0.0035em;
+    line-height: 1.4074074074074074;
+    min-height: 30px;
+    padding: 0.25rem 0.6875rem;
+  }
+  .button_buttonSizeL__z8y6s {
+    font-size: 1rem;
+    font-weight: 570;
+    letter-spacing: 0.0005em;
+    line-height: 1.4375;
+    min-height: 36px;
+    padding: 0.25rem 0.875rem;
+  }
+  .button_buttonVariantTertiary__lrfOH {
+    background: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    color: #121212;
+  }
+  .button_buttonVariantTertiary__lrfOH:active,
+  .button_buttonVariantTertiary__lrfOH:focus,
+  .button_buttonVariantTertiary__lrfOH:hover {
+    background: #f6f5f4;
+  }
+  .button_buttonVariantTertiary__lrfOH:disabled {
+    background: none;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: none;
+    color: rgba(0, 0, 0, 0.4);
+    cursor: auto;
+  }
+  .button_buttonVariantSimple__hzQDj {
+    color: inherit;
+    font-weight: inherit;
+    height: auto;
+    padding: 6px;
+    transition: background 0.15s;
+  }
+  .button_buttonVariantSimple__hzQDj:hover {
+    background: rgba(0, 0, 0, 0.1);
+  }
+  .button_buttonVariantSimple__hzQDj:active {
+    background: rgba(0, 0, 0, 0.4);
+  }
+  .button_buttonVariantSimple__hzQDj:disabled {
+    background: none;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: none;
+    color: rgba(0, 0, 0, 0.4);
+    cursor: auto;
+  }
+  .text_text__cG3pf {
+    margin: 0;
+    padding: 0;
+    font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: inherit;
+    color: #121212;
+  }
+  .text_textColorLight__Fy_uE {
+    color: rgba(0, 0, 0, 0.4);
+  }
+  .text_textColorInherit__a2s_H {
+    color: inherit;
+  }
+  .text_textWeightRegular__lAQvj {
+    font-weight: 400;
+  }
+  .text_textWeightSemibold___lCV0 {
+    font-weight: 600;
+  }
+  .text_textSizeCaption__3Geg0.text_textWeightRegular__lAQvj {
+    font-variation-settings: "wght" 456;
+    letter-spacing: 0.0075em;
+  }
+  .text_textSizeNav__T2a_b.text_textWeightRegular__lAQvj {
+    font-variation-settings: "wght" 455;
+    letter-spacing: 0.0009em;
+  }
+  .text_textSizeNav__T2a_b.text_textWeightSemibold___lCV0 {
+    font-variation-settings: "wght" 615;
+    letter-spacing: 0.0025em;
+  }
+  .text_textSizeBody__4q5Cs.text_textWeightRegular__lAQvj {
+    font-variation-settings: "wght" 450;
+    letter-spacing: 0.0005em;
+  }
+  .InlineTextLink_inlineLink__oN8YM {
+    border-radius: 0.3125rem;
+    cursor: pointer;
+    display: inline;
+    position: relative;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.1em;
+  }
+  .InlineTextLink_inlineLink__oN8YM:focus {
+    box-shadow: none;
+    outline: 0;
+  }
+  .InlineTextLink_inlineLink__oN8YM:focus-visible {
+    box-shadow: none;
+    outline: 0;
+  }
+  .InlineTextLink_colorInherit__oGlTG {
+    color: inherit;
+  }
+  .InlineTextLink_colorInherit__oGlTG:hover {
+    color: #0a85d1;
+  }
+  .InlineTextLink_underlineOnHover__J78xW {
+    text-decoration: none;
+  }
+  .InlineTextLink_underlineOnHover__J78xW:hover {
+    text-decoration: underline;
+  }
+  .Spacer_spacer__Hz1_q {
+    width: 100%;
+  }
+  .menu_menu__rkuLN {
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.04),
+      0 2.025px 7.84688px rgba(0, 0, 0, 0.027),
+      0 0.8px 2.925px rgba(0, 0, 0, 0.02),
+      0 0.175px 1.04062px rgba(0, 0, 0, 0.013);
+    list-style: none;
+    margin: 0;
+    overflow: auto;
+    padding: 4px;
+    position: absolute;
+    transform: matrix(0.97, 0, 0, 0.97, 0, 0);
+    transition: opacity 0.15s ease, transform 0.15s ease;
+    width: max-content;
+    z-index: 1000;
+  }
+  .menu_menu__rkuLN[hidden] {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    display: block;
+    height: 1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    visibility: hidden;
+    white-space: nowrap;
+    width: 1px;
+  }
+  .menu_menu__rkuLN.menu_placementBottomStart__RBvSm {
+    left: 0;
+    top: 100%;
+    transform-origin: top left;
+  }
+  .menuItemLink_menuItemLink__Z27j2 {
+    align-items: center;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    gap: 6px;
+    min-width: 150px;
+    padding: 4px 44px 4px 8px;
+    text-decoration: none;
+  }
+  .menuItemLink_menuItemLink__Z27j2:active,
+  .menuItemLink_menuItemLink__Z27j2:hover {
+    background: #f6f5f4;
+  }
+  .languagePickerButton_button__QWrdE {
+    align-items: center;
+    display: flex;
+    gap: 6px;
+  }
+  .languagePicker_languagePicker__7tXbz {
+    position: relative;
+  }
+  .languagePicker_languagePickerMenu__o5H7H {
+    max-height: 350px;
+  }
+  .wordmark_wordmark__gPyj1 {
+    display: block;
+    height: 30px;
+  }
+  .wordmark_fill__RZFeq {
+    color: #121212;
+    fill: currentColor;
+  }
+  .footerColumn_list__xEsxo {
+    break-inside: avoid;
+    list-style: none;
+    margin: 0 0 36px;
+    padding: 0;
+    page-break-inside: avoid;
+  }
+  .footerColumnItem_footerColumnItem__WBiQ9 {
+    color: rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+    display: block;
+    line-height: 1.35rem;
+    margin-top: 0.4rem;
+    text-align: left;
+  }
+  .footerColumnItem_footerColumnItemAction__4Gr_a {
+    background: transparent;
+    border: 0;
+    color: rgba(0, 0, 0, 0.6);
+    padding: 0;
+    text-align: left;
+    text-decoration: none;
+  }
+  .footerColumnItem_footerColumnItemAction__4Gr_a:hover {
+    color: #0a85d1;
+  }
+  .footerColumnItem_footerColumnItemAction__4Gr_a:active {
+    color: #076097;
+  }
+  .footerDoNotSell_button__MLFsR {
+    background: none;
+    border: 0;
+    padding: 0;
+  }
+  .footerDoNotSell_button__MLFsR:hover {
+    color: #0a85d1;
+    text-decoration: underline;
+  }
+  .footerSocial_socialList__h7Bi4 {
+    display: flex;
+    gap: 2px;
+    list-style: none;
+    margin: -6px;
+    padding: 0;
+  }
+  .footerSocial_socialListItem__wdDDq {
+    color: rgba(0, 0, 0, 0.6);
+  }
+  .footerSocial_socialListItem__wdDDq.footerSocial_twitter__Ihb5e:hover {
+    color: #4a9ae4;
+  }
+  .footerSocial_socialListItem__wdDDq.footerSocial_linkedIn__3_fRQ:hover {
+    color: #3071aa;
+  }
+  .footerSocial_socialListItem__wdDDq.footerSocial_facebook__4ydhX:hover {
+    color: #4267b2;
+  }
+  .footerSocial_socialListItem__wdDDq.footerSocial_instagram__RqMRr:hover {
+    color: #000;
+  }
+  .footerSocial_socialListItem__wdDDq.footerSocial_youtube__fuRqz:hover {
+    color: red;
+  }
+  .footer_footerInner__MQQSo {
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+    margin: 0 auto;
+    max-width: calc(1392px + 125px * 2);
+    padding: 36px 125px;
+    position: relative;
+  }
+  @media (min-width: 600px) {
+    .footer_footerInner__MQQSo {
+      padding: 80px 125px;
+    }
+  }
+  @media (min-width: 1080px) {
+    .footer_footerInner__MQQSo {
+      flex-direction: row;
+      gap: 24px;
+    }
+  }
+  .footer_maxWidthRedesigned___7XJp .footer_footerInner__MQQSo {
+    max-width: 1274px;
+  }
+  .footer_footerOuter__kubGm:before {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    content: "";
+    display: block;
+    margin: 0 16px;
+  }
+  .footer_footerTop__rz2e9 {
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+  }
+  @media screen and (min-width: 840px) {
+    .footer_footerTop__rz2e9 {
+      align-items: center;
+      display: grid;
+      grid-auto-columns: max-content;
+      grid-auto-flow: column;
+      grid-template-rows: repeat(2, max-content);
+      justify-content: space-between;
+    }
+  }
+  @media (min-width: 1080px) {
+    .footer_footerTop__rz2e9 {
+      align-items: flex-start;
+      display: flex;
+      justify-content: stretch;
+      width: 25%;
+    }
+  }
+  .footer_footerTopMain__2yt5M {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  .footer_footerBottom__sYaND {
+    flex: 1 0 auto;
+  }
+  @media (min-width: 1080px) {
+    .footer_footerBottom__sYaND {
+      width: 75%;
+    }
+  }
+  .footer_footerColumns__T50DJ {
+    column-count: 2;
+    column-gap: 24px;
+  }
+  @media (min-width: 1080px) {
+    .footer_footerColumns__T50DJ {
+      column-count: 3;
+    }
+  }
+  .footer_legal__lwfXH {
+    margin-top: 36px;
+  }
+  footer,
+  nav {
+    display: block;
+  }
+  [hidden] {
+    display: none;
+  }
+  a {
+    background-color: transparent;
+  }
+  svg:not(:root) {
+    overflow: hidden;
+  }
+  button {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+    overflow: visible;
+    text-transform: none;
+    -webkit-appearance: button;
+    cursor: pointer;
+  }
+  button::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+  }
+  ul {
+    padding: 0;
+  }
+  @font-face {
+    font-display: swap;
+    font-family: inter-var;
+    font-style: normal;
+    font-variation-settings: "wght" 290;
+    font-weight: 350;
+    src: url(https://www.notion.so/_next/static/media/Inter-Var.730e8169.woff2)
+      format("woff2-variations");
+  }
+  @font-face {
+    font-display: swap;
+    font-family: inter-var;
+    font-style: normal;
+    font-variation-settings: "wght" 430;
+    font-weight: 430;
+    src: url(https://www.notion.so/_next/static/media/Inter-Var.730e8169.woff2)
+      format("woff2-variations");
+  }
+  @font-face {
+    font-display: swap;
+    font-family: inter-var;
+    font-style: normal;
+    font-variation-settings: "wght" 544;
+    font-weight: 544;
+    src: url(https://www.notion.so/_next/static/media/Inter-Var.730e8169.woff2)
+      format("woff2-variations");
+  }
+  @font-face {
+    font-display: swap;
+    font-family: inter-var;
+    font-style: normal;
+    font-variation-settings: "wght" 586;
+    font-weight: 586;
+    src: url(https://www.notion.so/_next/static/media/Inter-Var.730e8169.woff2)
+      format("woff2-variations");
+  }
+  @font-face {
+    font-display: block;
+    font-family: inter-var;
+    font-style: normal;
+    font-variation-settings: "wght" 669;
+    font-weight: 669;
+    src: url(https://www.notion.so/_next/static/media/Inter-Var.730e8169.woff2)
+      format("woff2-variations");
+  }
+  * {
+    box-sizing: border-box;
+  }
+  svg {
+    fill: currentColor;
+  }
+  a {
+    color: #050505;
+  }
+  .option.jsx-d6056368102ef92b {
+    border-radius: 0.3125rem;
+    display: block;
+    padding: 5px 8px;
+  }
+  .label.jsx-d6056368102ef92b {
+    color: #050505;
+  }
+  .description.jsx-d6056368102ef92b {
+    color: rgba(0, 0, 0, 0.6);
+  }
+  html {
+    font-size: 16px;
+  }
+  
+
+
+  
+p.text_text__cG3pf.text_textWeightSemibold___lCV0.text_textSizeNav__T2a_b {
+	box-sizing: border-box;
+	color: #121212;
+	cursor: default;
+	font-family:
+		inter-var,
+		-apple-system,
+		BlinkMacSystemFont,
+		"Segoe UI",
+		Helvetica,
+		"Apple Color Emoji",
+		Arial,
+		sans-serif,
+		"Segoe UI Emoji",
+		"Segoe UI Symbol";
+	font-size: 15px;
+	font-weight: 600;
+	letter-spacing: 0.0375px;
+	line-height: 22px;
+	list-style-type: none;
+	text-align: left;
+}
